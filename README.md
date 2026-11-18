@@ -1,8 +1,10 @@
-# The World in One Picture — Tuesday 17 November 2026
+# news-image-20261117
 
-Entry for make.fun competition `news-image-20261117`: sum up 17 November's
-world news in one image. An AI judge compares the images two at a time and
-the 50 best win rates share $250.
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/nindafahila/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/nindafahila/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+A one-page newspaper front page summing up 17 November 2026 world news in a single 1024×1024 image: the third US carrier and mined tankers at the Strait of Hormuz, Kyiv and Crimea bridge strikes, Trump to APEC Shenzhen and the Xi–Trump–Putin meeting, a five-state EU–Rwanda return hub, the Pentagon's 9th failed audit, a JPMorgan/Zelle glitch, and Eritrea free of trachoma.
 
 ## The image
 
@@ -32,6 +34,16 @@ day's news as reported by AP, Reuters, Al Jazeera, NYT and The Guardian:
   `/output/entry.png` (or `$MAKEFUN_OUTPUT_DIR/entry.png`), so both
   grader runs write the same bytes.
 
+## Run it
+
+```sh
+node main.ts
+```
+
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=xqemgw87&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
